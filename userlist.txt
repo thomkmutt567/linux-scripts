@@ -1,0 +1,35 @@
+# Format: Username,UID,Password,PrimaryGroupName,PrimaryGID,SecondaryGroupNames,SecondaryGroupIDs(Ignored),HomeDirectory,ShellPath
+# jdoe,11005,Jd#Pa$$123,dev_team,2010,testing,support,2011,2012,/opt/users/jdoe,/bin/bash
+# svc_api,11006,SvC@ApiP1,services,2020,nogroup,2021,/var/svc/api,/bin/false
+# manager_x,11007,MngR%2025,execs,2030,sales,2032,/home/exec/mx,/bin/bash
+# user_ftp,11008,FtP#Usr!2,ftpusers,2040,none,2041,/home/ftp/u01,/sbin/nologin
+
+foodpassion,1104,Secure@#99,other,1,other,1,/ftp20112001,/bin/false
+foodpassionfull,1105,Secure@#99,foodpassionfull,1100,foodpassionfull,1100,/foodpassion,/bin/false
+foodpassion1,1106,Secure@#99,foodpassionreadonly,1101,foodpassionreadonly,1101,/foodpassion,/bin/false
+foodpassionfull2,1107,Secure@#99,foodpassionfull,1100,foodpassionfull,1100,/foodpassion,/bin/false
+foodpassion2,1108,Secure@#99,foodpassionreadonly,1101,foodpassionreadonly,1101,/foodpassion,/bin/false
+bbs,1109,Secure@#99,foodpassionfull,1100,foodpassionfull,1100,/foodpassion,/bin/false
+saphana,1110,Secure@#99,foodpassionfull,1100,foodpassionfull,1100,/foodpassion,/bin/false
+dtderp,1111,Secure@#99,foodpassionfull,1100,foodpassionfull,1100,/foodpassion,/bin/false
+adminfp,1112,Secure@#99,foodpassionfull,1100,foodpassionfull,1100,/foodpassion,/bin/false
+flexia,1113,Secure@#99,foodpassionfull,1100,foodpassionfull,1100,/foodpassion,/bin/false
+Connextx,1115,Secure@#99,foodpassion_cdp,1102,foodpassion_cdp,1102,/foodpassion_cdp,/bin/false
+branch,1116,Secure@#99,foodpassion_branch,1103,foodpassion_branch,1103,/foodpassion_branch,/bin/false
+hato,1118,Secure@#99,foodpassionfull,1100,foodpassionfull,1100,/foodpassion/DGD/,/bin/false
+ddiadmin,1119,Secure@#99,foodpassionfull,1100,foodpassionfull,1100,/foodpassion,/bin/false
+RedCarbon,1120,Secure@#99,foodpassion_cdp,1102,foodpassion_cdp,1102,/foodpassion_cdp/,/bin/false
+BBQCRM,1121,Secure@#99,foodpassionfull,1100,foodpassionfull,1100,/foodpassion/CRM/,/bin/false
+pmp,1122,Secure@#99,foodpassionfull,1100,foodpassionfull,1100,/foodpassion/PRD/900/OUTBOUND/ZEXPORT/HANA-SHAREDRIVE/,/bin/false
+T2P,1123,Secure@#99,foodpassionfull,1100,foodpassionfull,1100,/foodpassion/T2P/,/bin/false
+Teamppe,1124,Secure@#99,foodpassionfull,1100,foodpassionfull,1100,/foodpassion/PPE/,/bin/false
+sapacr,1125,Secure@#99,foodpassionfull,1100,foodpassionfull,1100,/foodpassion/PRD/900/OUTBOUND/ZARR002/,/bin/false
+sapstd,1126,Secure@#99,foodpassionfull,1100,foodpassionfull,1100,/foodpassion/PRD/900/OUTBOUND//ZEXPORT/ETL/Z003/,/bin/false
+cpoppdppc,1127,Secure@#99,foodpassionfull,1100,foodpassionfull,1100,/foodpassion/@Core/,/bin/false
+sapaia,1128,Secure@#99,foodpassionfull,1100,foodpassionfull,1100,/foodpassion/PRD/900/OUTBOUND/FI-AIA,/bin/false
+sapaia.uat,1130,Secure@#99,foodpassionfull,1100,foodpassionfull,1100,/foodpassion/QAS/204/OUTBOUND/FI-AIA,/bin/false
+pcc,1131,Secure@#99,foodpassionfull,1100,foodpassionfull,1100,/foodpassion/RPA/FoodHandler/,/bin/false
+sapfin,1132,Secure@#99,foodpassionfull,1100,foodpassionfull,1100,/foodpassion/PRD/900/OUTBOUND/CO-FIN,/bin/false
+pcc_user,1133,Secure@#99,foodpassionfull,1100,foodpassionfull,1100,/foodpassion/FoodHandler,/bin/false
+timehr,1135,Secure@#99,foodpassion_timehr,1104,foodpassion_timehr,1104,/foodpassion_timehr,/bin/false
+sapapc014.uat,1136,Secure@#99,foodpassionfull,1100,foodpassionfull,1100,/foodpassion/QAS/204/INBOUND/APC014/FILE/,/bin/false

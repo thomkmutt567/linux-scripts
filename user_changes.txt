@@ -1,0 +1,4 @@
+# Format: OldUID,NewUID_or_Name,TargetPath
+100,1009,/var/www/data
+101,user_b_new,/data/shared_files
+500,1011,/home/legacy_users
