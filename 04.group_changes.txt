@@ -1,4 +1,0 @@
-# Format: OldGroupName/GID,NewGroupName,TargetPath
-2001,finance_new,/data/finance/reports
-old_devs,developers,/var/www/projectA
-3005,testers,/home/shared_files
