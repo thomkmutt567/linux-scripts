@@ -31,6 +31,9 @@ log_status() {
 
 # --- การอ่านและประมวลผลไฟล์ Input ---
 while IFS= read -r line; do
+    # ลบอักขระ Carriage Return (CR หรือ ^M) ออกจากตัวแปร $line
+    line=$(echo "$line" | tr -d '\r') 
+    # ส่วนแก้ไขทีหลังเอา ^M ออก
     # ข้ามบรรทัดที่ว่างเปล่าหรือ comment
     if [[ -z "$line" || "$line" =~ ^[[:space:]]*# ]]; then
         continue
