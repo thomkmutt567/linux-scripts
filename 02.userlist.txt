@@ -3,7 +3,6 @@
 # svc_api,11006,SvC@ApiP1,services,2020,nogroup,2021,/var/svc/api,/bin/false
 # manager_x,11007,MngR%2025,execs,2030,sales,2032,/home/exec/mx,/bin/bash
 # user_ftp,11008,FtP#Usr!2,ftpusers,2040,none,2041,/home/ftp/u01,/sbin/nologin
-
 foodpassion,1104,Secure@#99,other,1,other,1,/ftp20112001,/bin/false
 foodpassionfull,1105,Secure@#99,foodpassionfull,1100,foodpassionfull,1100,/foodpassion,/bin/false
 foodpassion1,1106,Secure@#99,foodpassionreadonly,1101,foodpassionreadonly,1101,/foodpassion,/bin/false
@@ -33,3 +32,4 @@ sapfin,1132,Secure@#99,foodpassionfull,1100,foodpassionfull,1100,/foodpassion/PR
 pcc_user,1133,Secure@#99,foodpassionfull,1100,foodpassionfull,1100,/foodpassion/FoodHandler,/bin/false
 timehr,1135,Secure@#99,foodpassion_timehr,1104,foodpassion_timehr,1104,/foodpassion_timehr,/bin/false
 sapapc014.uat,1136,Secure@#99,foodpassionfull,1100,foodpassionfull,1100,/foodpassion/QAS/204/INBOUND/APC014/FILE/,/bin/false
+
