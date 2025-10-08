@@ -1,0 +1,10 @@
+# Path หลักของ Web Application
+# /var/www/html/mysite
+# Path สำหรับ Project Food Passion 
+# /foodpassion
+# Path สำหรับ Backup (ถ้าต้องการเปลี่ยนสิทธิ์ด้วย)
+# /mnt/backups/data
+/foodpassion
+/foodpassion_branch
+/foodpassion_cdp
+/foodpassion_timehr
