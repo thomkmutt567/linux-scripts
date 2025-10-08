@@ -5,7 +5,7 @@
 ###########################################################
 
 # 1. กำหนดชื่อไฟล์รายชื่อ Path ที่ต้องการแก้ไข (ห้ามลืมเปลี่ยน!)
-PATH_LIST_FILE="./paths_to_remap.txt" 
+PATH_LIST_FILE="./04.paths_to_remap.txt" 
 
 # 2. กำหนดสิทธิ์ Permission ที่ต้องการให้ ACLs ได้รับ
 ACL_PERMISSIONS="rwx" 
