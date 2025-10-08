@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # กำหนดชื่อไฟล์ Log
-LOG_FILE="creation_log.txt"
+LOG_FILE="creation_dir_log.txt"
 INPUT_FILE="$1"
 
 # --- การตั้งค่าเริ่มต้นและการตรวจสอบ ---
