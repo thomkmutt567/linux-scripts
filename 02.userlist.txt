@@ -4,4 +4,5 @@
 # manager_x,11007,MngR%2025,execs,2030,sales,2032,/home/exec/mx,/bin/bash
 # user_ftp,11008,FtP#Usr!2,ftpusers,2040,none,2041,/home/ftp/u01,/sbin/nologin
 
-foodpassion,1104,ไม่บอกครับ5555,other,1,other,1,/ftp20112001,/bin/false
+food,1104,ไม่บอกครับ5555,other,1,other,1,/ftp20112001,/bin/false
+
