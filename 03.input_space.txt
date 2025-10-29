@@ -5,4 +5,5 @@
 #webuser   www-data      /var/www/site_beta/uploads
 #johndoe   johndoe       /home/johndoe/app_logs
 #appuser   appgroup      /opt/my_custom_app
-saphana	foodpassionfull	/foodpassion/PRD
+saphana	food	/food/PRD
+
