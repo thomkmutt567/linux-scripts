@@ -4,8 +4,3 @@
 # ftp_users,2040,nogroup,2045
 
 other,2001,other,2001
-foodpassionfull,1100,foodpassionfull,1100
-foodpassionreadonly,1101,foodpassionreadonly,1101
-foodpassion_cdp,1102,foodpassion_cdp,1102
-foodpassion_branch,1103,foodpassion_branch,1103
-foodpassion_timehr,1104,foodpassion_timehr,1104
