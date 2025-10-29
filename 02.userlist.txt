@@ -5,31 +5,3 @@
 # user_ftp,11008,FtP#Usr!2,ftpusers,2040,none,2041,/home/ftp/u01,/sbin/nologin
 
 foodpassion,1104,ไม่บอกครับ5555,other,1,other,1,/ftp20112001,/bin/false
-foodpassionfull,1105,ไม่บอกครับ5555,foodpassionfull,1100,foodpassionfull,1100,/foodpassion,/bin/false
-foodpassion1,1106,ไม่บอกครับ5555,foodpassionreadonly,1101,foodpassionreadonly,1101,/foodpassion,/bin/false
-foodpassionfull2,1107,ไม่บอกครับ5555,foodpassionfull,1100,foodpassionfull,1100,/foodpassion,/bin/false
-foodpassion2,1108,ไม่บอกครับ5555,foodpassionreadonly,1101,foodpassionreadonly,1101,/foodpassion,/bin/false
-bbs,1109,ไม่บอกครับ5555,foodpassionfull,1100,foodpassionfull,1100,/foodpassion,/bin/false
-saphana,1110,ไม่บอกครับ5555,foodpassionfull,1100,foodpassionfull,1100,/foodpassion,/bin/false
-dtderp,1111,ไม่บอกครับ5555,foodpassionfull,1100,foodpassionfull,1100,/foodpassion,/bin/false
-adminfp,1112,ไม่บอกครับ5555,foodpassionfull,1100,foodpassionfull,1100,/foodpassion,/bin/false
-flexia,1113,ไม่บอกครับ5555,foodpassionfull,1100,foodpassionfull,1100,/foodpassion,/bin/false
-Connextx,1115,ไม่บอกครับ5555,foodpassion_cdp,1102,foodpassion_cdp,1102,/foodpassion_cdp,/bin/false
-branch,1116,ไม่บอกครับ5555,foodpassion_branch,1103,foodpassion_branch,1103,/foodpassion_branch,/bin/false
-hato,1118,ไม่บอกครับ5555,foodpassionfull,1100,foodpassionfull,1100,/foodpassion/DGD/,/bin/false
-ddiadmin,1119,ไม่บอกครับ5555,foodpassionfull,1100,foodpassionfull,1100,/foodpassion,/bin/false
-RedCarbon,1120,ไม่บอกครับ5555,foodpassion_cdp,1102,foodpassion_cdp,1102,/foodpassion_cdp/,/bin/false
-BBQCRM,1121,ไม่บอกครับ5555,foodpassionfull,1100,foodpassionfull,1100,/foodpassion/CRM/,/bin/false
-pmp,1122,ไม่บอกครับ5555,foodpassionfull,1100,foodpassionfull,1100,/foodpassion/PRD/900/OUTBOUND/ZEXPORT/HANA-SHAREDRIVE/,/bin/false
-T2P,1123,ไม่บอกครับ5555,foodpassionfull,1100,foodpassionfull,1100,/foodpassion/T2P/,/bin/false
-Teamppe,1124,ไม่บอกครับ5555,foodpassionfull,1100,foodpassionfull,1100,/foodpassion/PPE/,/bin/false
-sapacr,1125,ไม่บอกครับ5555,foodpassionfull,1100,foodpassionfull,1100,/foodpassion/PRD/900/OUTBOUND/ZARR002/,/bin/false
-sapstd,1126,ไม่บอกครับ5555,foodpassionfull,1100,foodpassionfull,1100,/foodpassion/PRD/900/OUTBOUND//ZEXPORT/ETL/Z003/,/bin/false
-cpoppdppc,1127,ไม่บอกครับ5555,foodpassionfull,1100,foodpassionfull,1100,/foodpassion/@Core/,/bin/false
-sapaia,1128,ไม่บอกครับ5555,foodpassionfull,1100,foodpassionfull,1100,/foodpassion/PRD/900/OUTBOUND/FI-AIA,/bin/false
-sapaia.uat,1130,ไม่บอกครับ5555,foodpassionfull,1100,foodpassionfull,1100,/foodpassion/QAS/204/OUTBOUND/FI-AIA,/bin/false
-pcc,1131,ไม่บอกครับ5555,foodpassionfull,1100,foodpassionfull,1100,/foodpassion/RPA/FoodHandler/,/bin/false
-sapfin,1132,ไม่บอกครับ5555,foodpassionfull,1100,foodpassionfull,1100,/foodpassion/PRD/900/OUTBOUND/CO-FIN,/bin/false
-pcc_user,1133,ไม่บอกครับ5555,foodpassionfull,1100,foodpassionfull,1100,/foodpassion/FoodHandler,/bin/false
-timehr,1135,ไม่บอกครับ5555,foodpassion_timehr,1104,foodpassion_timehr,1104,/foodpassion_timehr,/bin/false
-sapapc014.uat,1136,ไม่บอกครับ5555,foodpassionfull,1100,foodpassionfull,1100,/foodpassion/QAS/204/INBOUND/APC014/FILE/,/bin/false
